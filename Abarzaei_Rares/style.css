@@ -1,0 +1,48 @@
+h1 {
+	text-align: right;
+	background-color: #65CED7;
+	border: 5px solid #3674B1;
+}
+
+
+a:link {
+  color: #65CED7;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:hover {
+  color: #3674B1;
+  background-color: #65CED7;
+  text-decoration: underline;
+}
+h4 {
+	text-align: right;
+}
+
+
+
+.big-text {
+	font-size: 30px;
+}
+
+
+
+#rounded-img {
+	border-radius: 50px;
+}
+
+
+
+table, th, td {
+  border:1px solid black;
+}
+
+
+
+table {
+  width: 800px;
+}
+
+.nume {
+	
+}
